@@ -6,7 +6,7 @@
 $databaseHost = 'localhost';
 $databaseName = 'wedinv';
 $databaseUsername = 'root';
-$databasePassword = 'Sumo291095!';
+$databasePassword = '';
 
 $mysqli = mysqli_connect($databaseHost, $databaseUsername, $databasePassword, $databaseName); 
 
