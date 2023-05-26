@@ -21,6 +21,7 @@ Dan juga beberapa sumber gambar yaitu :
 3. Import wedinv.sql yang berada pada folder database
 4. Konfigurasi kembali file config.php yang berada pada folder functions
 5. Atur koneksi sesuai konfigurasi server anda
+*Untuk backsound copy file .mp3 anda ke dalam directory assets/song/song.mp3
  
 # Screenshoot
 <img src="https://github.com/rachmatsumo/wedding-invitation/blob/main/screenshot/Screenshot%20from%202023-05-26%2022-35-05.png" alt="Pic 1">
