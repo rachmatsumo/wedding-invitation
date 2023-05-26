@@ -4,10 +4,12 @@ Online wedding invitation built using HTML-JS-PHP
 # Silahkan unduh atau kembangkan agar sistem ini lebih baik lagi. Anda bebas untuk mengembangkan ataupun mempelajarinya.
 
 # Deskripsi
-Online wedding invitation sederhana berbasis web
+Online wedding invitation sederhana berbasis web.
 Beberapa library yang digunakan antara lain :
+
 1. Bootsrap 5
 2. Jquery 3xx 
+
 Dan juga beberapa sumber gambar yaitu :
 1. pexels.com
 2. Flaticon
